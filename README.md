@@ -77,7 +77,7 @@ cd slackproject
 2. Paste the Slack Webhook URL:
 
 ```properties
-slack.webhook.url=https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+slack.webhook.url=url_to_your_apps_webhook
 ```
 
 ### 4. Build and Run the Application
